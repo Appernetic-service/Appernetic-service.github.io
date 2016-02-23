@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:3000/preview/</loc>
+    <lastmod>2016-02-21T14:31:06+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/preview/2016/02/21/ygyugjg-ugjggj/</loc>
+    <lastmod>2016-02-21T14:31:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/preview/about/</loc>
+    <lastmod>2016-02-10T20:21:11+00:00</lastmod>
+  </url>
+  
+</urlset>
